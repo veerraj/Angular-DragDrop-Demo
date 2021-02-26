@@ -123,5 +123,8 @@
       }
     }
   },
-  "defaultProject": "draganddrop"
+  "defaultProject": "draganddrop",
+  "cli": {
+    "analytics": false
+  }
 }
